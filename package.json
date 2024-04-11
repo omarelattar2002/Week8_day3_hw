@@ -1,0 +1,14 @@
+{
+  "name": "cart_typscript",
+  "version": "1.0.0",
+  "description": "cart",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "oomer",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.4.5"
+  }
+}
